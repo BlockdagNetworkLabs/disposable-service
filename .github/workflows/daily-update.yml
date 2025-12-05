@@ -1,0 +1,66 @@
+name: Daily Domain Update
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  
+  # Allows manual triggering from GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-domains:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        submodules: recursive
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Update submodules
+      run: |
+        git submodule update --remote --merge
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install uv (Python package manager)
+      run: |
+        curl -LsSf https://astral.sh/uv/install.sh | sh
+        echo "$HOME/.cargo/bin" >> $GITHUB_PATH
+    
+    - name: Install Python dependencies
+      run: |
+        cd disposable
+        uv sync
+    
+    - name: Configure Git
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+    
+    - name: Make update script executable
+      run: chmod +x update.sh
+    
+    - name: Run domain update
+      run: ./update.sh
+      env:
+        GITHUB_ACTIONS: true
+    
+    - name: Display update summary
+      run: |
+        if git diff --quiet HEAD~1 HEAD 2>/dev/null; then
+          echo "ℹ️ No changes detected in domain lists"
+        else
+          echo "✅ Domain lists updated successfully"
+          echo ""
+          echo "📊 Commit details:"
+          git log -1 --stat
+        fi
