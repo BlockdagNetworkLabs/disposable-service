@@ -1,0 +1,29 @@
+# This is a basic workflow that is manually triggered
+
+name: generate lists
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build list
+    runs-on: ubuntu-latest
+    container:
+      image: "ghcr.io/${{ github.repository }}:latest"
+      credentials:
+        username: disposable
+        password: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Start unbound service
+        run: |
+          service unbound start
+          service unbound status
+      - name: Install uv
+        run: pip3 install --upgrade uv
+      - name: Sync dependencies
+        run: uv sync
+      - name: Run script
+        run: uv run ./disposable.py --ns 127.0.0.1 --dnsport 5335 --source-map --skip-scrape --skip-src 'Tempmailo'

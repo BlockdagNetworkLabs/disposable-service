@@ -22,9 +22,7 @@ jobs:
         submodules: recursive
         token: ${{ secrets.GITHUB_TOKEN }}
     
-    - name: Update submodules
-      run: |
-        git submodule update --remote --merge
+
     
     - name: Set up Python
       uses: actions/setup-python@v5

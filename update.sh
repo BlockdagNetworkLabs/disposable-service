@@ -7,11 +7,6 @@ echo "🚀 Starting domain update process..."
 if [ -z "$GITHUB_ACTIONS" ]; then
   echo "📥 Pulling latest changes..."
   git pull -q -f
-  
-  echo "📦 Updating submodule..."
-  cd disposable
-  git pull -q -f
-  cd ..
 fi
 
 tmpfile=$(mktemp)
