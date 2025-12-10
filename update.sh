@@ -23,7 +23,7 @@ echo "📦 Installing dependencies..."
 # Run domain generation
 # The Python script now preserves old domains automatically
 echo "🔍 Fetching domains from sources..."
-uv --project disposable run python ./disposable/.generate --dedicated-strict --source-map --dns-verify 2>$tmpfile
+uv --project disposable run python ./disposable/.generate --dedicated-strict --source-map --dns-verify --skip-scrape 2>$tmpfile
 
 # Check if there are any changes
 if git diff --quiet domains*.txt domains*.json 2>/dev/null; then
