@@ -414,4 +414,4 @@ $RECYCLE.BIN/
 blacklist.txt
 
 # ignore cache files in normal commit
-cache/
+cache/.idea/
