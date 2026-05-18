@@ -10817,6 +10817,7 @@ https://deviceandbrowserinfo.com/api/emails/disposable:crn9dgyb4b.mailbo.store
 https://deviceandbrowserinfo.com/api/emails/disposable:crng6l36df.mailbo.store
 https://deviceandbrowserinfo.com/api/emails/disposable:crnzk6avkf.mailbo.store
 https://deviceandbrowserinfo.com/api/emails/disposable:crocsgreenville.com
+https://deviceandbrowserinfo.com/api/emails/disposable:crodity.com
 https://deviceandbrowserinfo.com/api/emails/disposable:crofootfamily.com
 https://deviceandbrowserinfo.com/api/emails/disposable:cronack.com
 https://deviceandbrowserinfo.com/api/emails/disposable:crookedcreekdesignz.com
@@ -12645,6 +12646,7 @@ https://deviceandbrowserinfo.com/api/emails/disposable:du8bdzcm0e.mailbo.store
 https://deviceandbrowserinfo.com/api/emails/disposable:du9su2ue37.mailbo.store
 https://deviceandbrowserinfo.com/api/emails/disposable:dubokutv.com
 https://deviceandbrowserinfo.com/api/emails/disposable:dubushi.com
+https://deviceandbrowserinfo.com/api/emails/disposable:duc.freeml.net
 https://deviceandbrowserinfo.com/api/emails/disposable:ducas.org
 https://deviceandbrowserinfo.com/api/emails/disposable:duckadventure.site
 https://deviceandbrowserinfo.com/api/emails/disposable:duckyoursick.com
@@ -16996,6 +16998,7 @@ https://deviceandbrowserinfo.com/api/emails/disposable:gptonesollution.app
 https://deviceandbrowserinfo.com/api/emails/disposable:gptonesollution.live
 https://deviceandbrowserinfo.com/api/emails/disposable:gptonesollution.tech
 https://deviceandbrowserinfo.com/api/emails/disposable:gptpluz.shop
+https://deviceandbrowserinfo.com/api/emails/disposable:gptpluz2.shop
 https://deviceandbrowserinfo.com/api/emails/disposable:gptpremapp.me
 https://deviceandbrowserinfo.com/api/emails/disposable:gptstore.dpdns.org
 https://deviceandbrowserinfo.com/api/emails/disposable:gptte.site
@@ -20275,6 +20278,7 @@ https://deviceandbrowserinfo.com/api/emails/disposable:iulmhnewce.mailbo.store
 https://deviceandbrowserinfo.com/api/emails/disposable:iumpgl2vqe.mailbo.store
 https://deviceandbrowserinfo.com/api/emails/disposable:iumqj5ytmf.mailbo.store
 https://deviceandbrowserinfo.com/api/emails/disposable:iun8eqsviu.mailbo.store
+https://deviceandbrowserinfo.com/api/emails/disposable:iuno.fun
 https://deviceandbrowserinfo.com/api/emails/disposable:iuqaokbxh0.mailbo.store
 https://deviceandbrowserinfo.com/api/emails/disposable:iuqp8fw5qk.mailbo.store
 https://deviceandbrowserinfo.com/api/emails/disposable:iuse.ydns.eu
@@ -30843,6 +30847,7 @@ https://deviceandbrowserinfo.com/api/emails/disposable:powayfinejewelers.com
 https://deviceandbrowserinfo.com/api/emails/disposable:powderspace.net
 https://deviceandbrowserinfo.com/api/emails/disposable:power.mailbo.store
 https://deviceandbrowserinfo.com/api/emails/disposable:poweradxas.online
+https://deviceandbrowserinfo.com/api/emails/disposable:powerdea.me
 https://deviceandbrowserinfo.com/api/emails/disposable:powerery.com
 https://deviceandbrowserinfo.com/api/emails/disposable:powerportalproducts.com
 https://deviceandbrowserinfo.com/api/emails/disposable:powerscrews.com
@@ -39200,6 +39205,7 @@ https://deviceandbrowserinfo.com/api/emails/disposable:ultravex.cfd
 https://deviceandbrowserinfo.com/api/emails/disposable:ultraz1.io.vn
 https://deviceandbrowserinfo.com/api/emails/disposable:ultrazzam.online
 https://deviceandbrowserinfo.com/api/emails/disposable:ultrazzam.space
+https://deviceandbrowserinfo.com/api/emails/disposable:ultzzam.online
 https://deviceandbrowserinfo.com/api/emails/disposable:ulu8h69dqm.mailbo.store
 https://deviceandbrowserinfo.com/api/emails/disposable:ulubh6uqn3.mailbo.store
 https://deviceandbrowserinfo.com/api/emails/disposable:ulunbtburz.mailbo.store
@@ -40157,6 +40163,7 @@ https://deviceandbrowserinfo.com/api/emails/disposable:vejnsxu7nq.mailbo.store
 https://deviceandbrowserinfo.com/api/emails/disposable:vekdrk4r9s.mailbo.store
 https://deviceandbrowserinfo.com/api/emails/disposable:velatrix.cfd
 https://deviceandbrowserinfo.com/api/emails/disposable:velej6q329.mailbo.store
+https://deviceandbrowserinfo.com/api/emails/disposable:velnixaropq.io.vn
 https://deviceandbrowserinfo.com/api/emails/disposable:velociticommunications.com
 https://deviceandbrowserinfo.com/api/emails/disposable:velocityinbox.cfd
 https://deviceandbrowserinfo.com/api/emails/disposable:veltria.homes
@@ -44924,6 +44931,7 @@ https://deviceandbrowserinfo.com/api/emails/disposable:zainpetroleum.com
 https://deviceandbrowserinfo.com/api/emails/disposable:zaiss3hws2.mailbo.store
 https://deviceandbrowserinfo.com/api/emails/disposable:zaisylla.com
 https://deviceandbrowserinfo.com/api/emails/disposable:zakcmdylwm.mailbo.store
+https://deviceandbrowserinfo.com/api/emails/disposable:zalesie.net.pl
 https://deviceandbrowserinfo.com/api/emails/disposable:zamafotografos.com
 https://deviceandbrowserinfo.com/api/emails/disposable:zamaneta.com
 https://deviceandbrowserinfo.com/api/emails/disposable:zamoranoasociados.com
@@ -47264,7 +47272,6 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:amazinggift.li
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:amazinggift.life
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:amazinggift.life
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:amazinggift.life
-https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:ambutaek.pro
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:amcret.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:americancivichub.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:americancivichub.com
@@ -47480,7 +47487,6 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:austingambles.
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:austingambles.org
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:austingambles.org
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:autarchy.academy
-https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:autarchy.academy
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:autdent.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:automisly.org
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:automisly.org
@@ -47532,10 +47538,10 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:avlnch.store
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:avlnch.store
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:awanhitamwoy.fun
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:awanhitamwoy.fun
-https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:awanhitamwoy.fun
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:awawawaw.me
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:awawawaw.me
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:awawawaw.me
+https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:awfucex.net
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:axcradio.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:ayahseviana.io
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:ayahseviana.io
@@ -47663,6 +47669,7 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bandmuflikhun.
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bandtoo.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bandtoo.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bandtoo.com
+https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bandtoo.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bangban.uk
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bangeer-55sw.xyz
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bangi.anonbox.net
@@ -47739,7 +47746,6 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bb28.dev
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bb28.dev
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bb28.dev
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bb2v7.anonbox.net
-https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bb7fk.anonbox.net
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bb99.lol
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bbacademy.es
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bbacademy.es
@@ -47858,7 +47864,6 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bestjoayo.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bestjoayo.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bestjoayo.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bestmailservices.xyz
-https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bestphonefarm.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:besttempmail.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:besttempmail.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:beta.edu.pl
@@ -47947,6 +47952,7 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:binhvt.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:binhvt.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:binhvt.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:biomails.com
+https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:biosu.dev
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:biosu.dev
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:bipochub.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:biscuitvn.xyz
@@ -48201,7 +48207,6 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:brankasmu.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:brankasmu.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:brankasmu.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:brankasmu.com
-https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:braseniors.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:braseniors.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:braseniors.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:braseniors.com
@@ -48917,7 +48922,6 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:coursora.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:cousinment.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:cpeo3.anonbox.net
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:cqpcut.id
-https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:cqpcut.id
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:crapmail.org
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:crashkiller.ovh
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:crashkiller.ovh
@@ -49026,7 +49030,6 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:danangsale.net
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:daneral.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:dangkydinhdanh.online
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:dangkydinhdanh.online
-https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:danhchinh.link
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:danhchinh.link
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:danhchinh.link
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:danhpro.top
@@ -49340,7 +49343,6 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:dramamixio.icu
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:dramamixio.icu
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:dramamixio.icu
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:dramamixio.icu
-https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:dreamclarify.org
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:dreammatchup.lat
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:dreammatchup.lat
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:dretnar.com
@@ -49814,11 +49816,9 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:f2pools.info
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:f2pools.info
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:f2pools.info
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:f2pools.online
-https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:f2pools.online
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:f36a3.anonbox.net
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:f5.si
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:fabaos.com
-https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:fabiopisani.art
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:fabricoak.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:fajskdlh.top
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:fajskdlh.top
@@ -50391,7 +50391,6 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:gmailbox.kr
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:gmailbox.kr
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:gmailbrt.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:gmailbrt.com
-https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:gmailbrt.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:gmaillk.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:gmaillk.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:gmaillk.com
@@ -50482,6 +50481,7 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:gpa.lu
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:gptonesollution.live
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:gptpluz2.shop
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:gptpremapp.me
+https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:gptworkone.dev
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:gptworkone.dev
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:gptworkone.dev
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:gptworkone.dev
@@ -50673,7 +50673,6 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:hexcl.email
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:heyowaf.my.id
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:heytt.anonbox.net
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:hg6nx.anonbox.net
-https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:hgtech.dev
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:hgtech.dev
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:hh7f.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:hhl5z.anonbox.net
@@ -50905,7 +50904,6 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:hung89.click
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:hung89.click
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:hung89.click
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:hung89.shop
-https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:huobipools.cloud
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:huobipools.cloud
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:hupkn.anonbox.net
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:hurl.pro
@@ -51360,6 +51358,7 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:k-global.dev
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:k-global.dev
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:k-global.dev
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:k-global.dev
+https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:k-p7.top
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:k-p7.top
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:k-p7.top
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:k44os.anonbox.net
@@ -52031,7 +52030,6 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:lukampocd.cfd
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:lukamzcofs.cfd
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:lukapzca.cfd
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:lukapzca.cfd
-https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:lumenta.net
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:lumenta.net
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:luo.today
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:luo.today
@@ -52974,6 +52972,7 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:nexafilm.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:nexshinz.app
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:nexshinz.app
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:nexshinz.app
+https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:nexshinz.app
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:ngelead.eu.org
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:ngemusic.academy
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:ngemusic.academy
@@ -53283,7 +53282,6 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:orbitjolly.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:orbitjolly.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:orbitjolly.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:orbitjolly.com
-https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:orbub.one
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:oremal.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:organisasipoetra.io
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:orionpetshop.shop
@@ -53680,6 +53678,7 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:pow-pows.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:pow-pows.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:pow-pows.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:pow-pows.com
+https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:powerdea.me
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:powerscrews.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:powerscrews.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:pp-a1.lol
@@ -53768,6 +53767,7 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:primails.me
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:primails.me
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:primails.me
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:primalhigh.click
+https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:prime-gaming.ru
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:prime-gaming.ru
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:prime-gaming.ru
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:prime.gold.edu.pl
@@ -54067,7 +54067,6 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:rentproxy.xyz
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:reoub.anonbox.net
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:rep.biz.id
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:replicant.club
-https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:replicant.club
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:reportfresh.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:reportfresh.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:reportfresh.com
@@ -54256,6 +54255,7 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:saxlift.us
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:sayverfox.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:sayverfox.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:sayverfox.com
+https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:sbscity.us
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:sbscity.us
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:sbscity.us
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:sbscity.us
@@ -54448,7 +54448,6 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:shopaccmmo.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:shopaccmmo.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:shopaccmmo.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:shopaccmmo.com
-https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:shopaccvip.pro
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:shopaccvip.pro
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:shopbantkclone.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:shopbantkclone.com
@@ -55753,6 +55752,7 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:w3djp.anonbox.
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:w4bii.anonbox.net
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:w4fkd.anonbox.net
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:w5uxx.anonbox.net
+https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:w5yej.anonbox.net
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:wacold.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:waitbeqa.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:waitbeqa.com
@@ -55825,7 +55825,6 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:wavewon.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:wavewon.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:wavewon.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:wavewon.com
-https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:waysfails.com
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:wbrfx.anonbox.net
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:we-ede.top
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:we-ede.top
@@ -56014,6 +56013,7 @@ https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:xelio.sbs
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:xenamode.shop
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:xenamode.shop
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:xenamode.shop
+https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:xevra.sbs
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:xezo.live
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:xezo.live
 https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt:xezo.live
@@ -118485,6 +118485,7 @@ https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disp
 https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf:imails.info
 https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf:imailt.com
 https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf:imap.fr.nf
+https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf:imashr.com
 https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf:imfaya.com
 https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf:img-free.com
 https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf:imgof.com
@@ -121412,6 +121413,7 @@ https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disp
 https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf:writeme.us
 https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf:wronghead.com
 https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf:ws.gy
+https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf:wshu.net
 https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf:wsym.de
 https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf:wsypc.com
 https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf:wudet.men
@@ -148245,17 +148247,17 @@ https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.tx
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:zzviarmxjz.ga
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:zzz.com
 https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt:zzzz1717.com
-https://spamok.nl/demorahvkska:3060.nl
-https://spamok.nl/demorahvkska:asdasd.nl
-https://spamok.nl/demorahvkska:landmail.nl
-https://spamok.nl/demorahvkska:landmeel.nl
-https://spamok.nl/demorahvkska:sdfsdf.nl
-https://spamok.nl/demorahvkska:solarflarecorp.com
-https://spamok.nl/demorahvkska:spamok.com
-https://spamok.nl/demorahvkska:spamok.com.ua
-https://spamok.nl/demorahvkska:spamok.de
-https://spamok.nl/demorahvkska:spamok.es
-https://spamok.nl/demorahvkska:spamok.fr
+https://spamok.nl/demoxcsphudm:3060.nl
+https://spamok.nl/demoxcsphudm:asdasd.nl
+https://spamok.nl/demoxcsphudm:landmail.nl
+https://spamok.nl/demoxcsphudm:landmeel.nl
+https://spamok.nl/demoxcsphudm:sdfsdf.nl
+https://spamok.nl/demoxcsphudm:solarflarecorp.com
+https://spamok.nl/demoxcsphudm:spamok.com
+https://spamok.nl/demoxcsphudm:spamok.com.ua
+https://spamok.nl/demoxcsphudm:spamok.de
+https://spamok.nl/demoxcsphudm:spamok.es
+https://spamok.nl/demoxcsphudm:spamok.fr
 https://tempmail.plus/en/:any.pink
 https://tempmail.plus/en/:chitthi.in
 https://tempmail.plus/en/:fexbox.org
@@ -148743,12 +148745,12 @@ https://yopmail.com/domain?d=all:kyuusei.fr.nf
 https://yopmail.com/domain?d=all:lacraffe.fr.nf
 https://yopmail.com/domain?d=all:le.monchu.fr
 https://yopmail.com/domain?d=all:lerch.ovh
-https://yopmail.com/domain?d=all:lerch.ovh
 https://yopmail.com/domain?d=all:likeageek.fr.nf
 https://yopmail.com/domain?d=all:linuxbp.free.nf
 https://yopmail.com/domain?d=all:m.tartinemoi.com
 https://yopmail.com/domain?d=all:ma.ezua.com
 https://yopmail.com/domain?d=all:ma.zyns.com
+https://yopmail.com/domain?d=all:ma1l.duckdns.org
 https://yopmail.com/domain?d=all:mabal.fr.nf
 https://yopmail.com/domain?d=all:machen-wir.com
 https://yopmail.com/domain?d=all:mail-mario.fr.nf
@@ -148811,6 +148813,7 @@ https://yopmail.com/domain?d=all:sendos.fr.nf
 https://yopmail.com/domain?d=all:sendos.infos.st
 https://yopmail.com/domain?d=all:sind-hier.com
 https://yopmail.com/domain?d=all:sind-wir.com
+https://yopmail.com/domain?d=all:sindhier.com
 https://yopmail.com/domain?d=all:sindhier.com
 https://yopmail.com/domain?d=all:sindwir.com
 https://yopmail.com/domain?d=all:sirttest.us.to
